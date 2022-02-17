@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {    "workbench.colorTheme": "Visual Studio Dark",
+		"python.defaultInterpreterPath": "C:\\Users\\st12748\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+		"files.autoSave": "afterDelay"}
+}
